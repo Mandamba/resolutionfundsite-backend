@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ResolutionFundSite.Api.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\bin\Debug\net8.0\ResolutionFundSite.Domain.deps.json
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\bin\Debug\net8.0\ResolutionFundSite.Domain.dll
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\bin\Debug\net8.0\ResolutionFundSite.Domain.pdb
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\ResolutionFundSite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\ResolutionFundSite.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\ResolutionFundSite.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\ResolutionFundSite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\ResolutionFundSite.Domain.dll
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\refint\ResolutionFundSite.Domain.dll
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\ResolutionFundSite.Domain.pdb
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Domain\obj\Debug\net8.0\ref\ResolutionFundSite.Domain.dll

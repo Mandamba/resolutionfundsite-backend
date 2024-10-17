@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\bin\Debug\net8.0\ResolutionFundSite.Application.deps.json
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\bin\Debug\net8.0\ResolutionFundSite.Application.dll
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\bin\Debug\net8.0\ResolutionFundSite.Application.pdb
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\bin\Debug\net8.0\ResolutionFundSite.Domain.dll
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\bin\Debug\net8.0\ResolutionFundSite.Domain.pdb
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ResolutionFundSite.Application.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ResolutionFundSite.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ResolutionFundSite.Application.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ResolutionFundSite.Application.AssemblyInfo.cs
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ResolutionFundSite.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\Resoluti.591C9BFF.Up2Date
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ResolutionFundSite.Application.dll
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\refint\ResolutionFundSite.Application.dll
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ResolutionFundSite.Application.pdb
+C:\Users\PC\Documents\ResolutionFundSite\src\ResolutionFundSite.Application\obj\Debug\net8.0\ref\ResolutionFundSite.Application.dll

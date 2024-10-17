@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "ResolutionFundSite.Api.Controllers.CommentController",
+    "Method": "GetAll",
+    "RelativePath": "comments/getComment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ResolutionFundSite.Application.DTOs.Response.CommentResponse, ResolutionFundSite.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

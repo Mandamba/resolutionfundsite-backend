@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhY/CDvEC9D851X4uEbsBfdzgdkVYB74e2HA+K7mP+yNEsE8dLI42QfGmKwdXHQXos4UmTIin089ErwodP3bCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\ResolutionFundSite\\src\\ResolutionFundSite.Application\\ResolutionFundSite.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
